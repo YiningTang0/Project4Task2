@@ -1,0 +1,12 @@
+{
+    "name": "Proj4 Container",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [8080],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscjava.vscode-java-pack"
+            ]
+        }
+    }
+}
